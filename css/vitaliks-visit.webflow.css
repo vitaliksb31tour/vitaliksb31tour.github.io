@@ -174,6 +174,11 @@ p {
   color: #f3ea38;
 }
 
+.primary-button.intro-button {
+  margin-bottom: 20px;
+  color: #f3ea38;
+}
+
 .section-wrapper {
   overflow: hidden;
 }
